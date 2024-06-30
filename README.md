@@ -2,7 +2,7 @@ run this:
 ```
 grunt
 ```
-you will got a packaged project with html/js/css same with the code you write.
+you will got a packaged project in dist directory with html/js/css same with the code you write.
 
 which can help:
 1. zip the file to be smaller;
